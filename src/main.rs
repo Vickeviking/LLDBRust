@@ -1,3 +1,3 @@
 fn main() {
-    println!("Hello, world!");
+    LLDBRust::run_debugger();
 }

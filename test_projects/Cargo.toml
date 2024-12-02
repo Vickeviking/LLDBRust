@@ -1,9 +1,6 @@
 [package]
-name = "LLDBRust"
+name = "test_programs"
 version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-lldb = "0.0.11"
-lldb-sys = "0.0.28"
-
